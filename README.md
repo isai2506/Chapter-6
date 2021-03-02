@@ -8,6 +8,7 @@
 int main()
 
 {
+
 float x1, x2, y1, y2, distance, square;
 printf("Enter point 1: "); 
 scanf("%f %f",&x1,&y1);
@@ -19,6 +20,7 @@ square = pow((distance),2);
  printf("The distance between the two points is %.2f. ", distance);
  printf("The square of the distance is %.2f", square);
  return(0);
+ 
  }
 
 ## Exercise 6.2
