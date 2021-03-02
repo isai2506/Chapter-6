@@ -23,3 +23,5 @@ square = pow((distance),2);
 
  return(0);
  }
+
+## Exercise 6.2
